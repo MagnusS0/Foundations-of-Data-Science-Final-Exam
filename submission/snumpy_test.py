@@ -98,3 +98,7 @@ class TestSNumPyValidation(unittest.TestCase):
             Validator.validate_shape_for_reshape([[1, 2], [3, 4]], (2, 2))  # Not a vector
         with self.assertRaises(ValueError):
             Validator.validate_shape_for_reshape([1, 2, 3, 4], (3, 2))  # Incompatible shape
+
+
+if __name__ == '__main__':
+    unittest.main(argv=['first-arg-is-ignored'], exit=False)
