@@ -12,7 +12,7 @@ This project is structured to implement:
 ## Code Structure
 
 - `/snumppy` - Contains the implementation of SNumPy (Sub-NumPy) class.
-- `/hamming` - Includes the encoder and decoder for Hamming's code.
-- `/doc_similarity` - Houses the document similarity program.
+- `/hamming_code` - Includes the encoder and decoder for Hamming's code.
+- `/text_document_similarity` - Houses the document similarity program.
 
 
