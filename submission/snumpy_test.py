@@ -90,7 +90,7 @@ class TestSNumPyValidation(unittest.TestCase):
     def test_index_validation(self):
         with self.assertRaises(IndexError):
             Validator.validate_index_for_get([[1, 2], [3, 4]], (1, 3))  # Out of bounds
-        with self.assertRaises(IndexError):
+        with self.assertRaises(ValueError):
             Validator.validate_index_for_get([[1, 2], [3, 4]], '1,2')  # Invalid index format
 
     def test_reshape_validation(self):
