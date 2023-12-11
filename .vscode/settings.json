@@ -2,7 +2,7 @@
     "python.testing.unittestArgs": [
         "-v",
         "-s",
-        "./submission",
+        "./submission/snumpy",
         "-p",
         "*test.py"
     ],
