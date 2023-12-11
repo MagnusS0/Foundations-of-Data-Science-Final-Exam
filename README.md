@@ -1,6 +1,6 @@
 # Foundations of Data Science: Programming and Linear Algebra - Final Project
 
-This repository contains the collaborative work for the final exam project for the course CDSCO1001U, taught by Professor Raghava Mukkamala at Copenhagen Business School, Denmark. Our project focuses on implementing foundational data science algorithms in Python and exploring their applications in linear algebra.
+This repository contains the collaborative work for the final exam project for the course CDSCO1001U, taught by Professor Raghava Mukkamala at Copenhagen Business School, Denmark. Our project focuses on implementing foundational data science algorithms in Python and exploring their applications.
 
 ## Project Overview
 
