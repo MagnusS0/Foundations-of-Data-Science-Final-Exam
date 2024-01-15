@@ -12,7 +12,10 @@ This project is structured to implement:
 ## Code Structure
 
 - `/snumppy` - Contains the implementation of SNumPy (Sub-NumPy) class.
+  - Main contributor: [@MagnusS0](https://github.com/MagnusS0) 
 - `/hamming_code` - Includes the encoder and decoder for Hamming's code.
+  - Main contributor: [@Ulrichvi](https://github.com/ulrichvi) and [@Wilmernystrom](https://github.com/wilmernystrom)
 - `/text_document_similarity` - Houses the document similarity program.
+  - Main contributor: [@JacobNissen](https://github.com/Python-glitch)
 
 
